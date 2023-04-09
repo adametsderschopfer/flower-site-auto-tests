@@ -1,6 +1,5 @@
 package org.cvetok39.cart.core;
 
-import io.netty.channel.unix.Errors;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;

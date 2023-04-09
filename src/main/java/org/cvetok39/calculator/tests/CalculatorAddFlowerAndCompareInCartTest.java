@@ -48,7 +48,7 @@ public class CalculatorAddFlowerAndCompareInCartTest extends BaseTest {
             Thread.sleep(500);
 
             calculator.storePrice();
-            Thread.sleep(5000);3
+            Thread.sleep(5000);
 
             calculator.addFlowerToCart();
             Thread.sleep(5000);
